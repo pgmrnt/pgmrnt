@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          ![Snake animation](https://github.com/pgmrnt/pgmrnt/blob/output/github-contribution-grid-snake.svg)
+        
