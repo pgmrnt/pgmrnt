@@ -1,4 +1,4 @@
-## Hi there 👋
 
 
-(https://github.com/pgmrnt/pgmrnt/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Rntpgm/Rntpgm/blob/output/github-contribution-grid-snake.svg)
